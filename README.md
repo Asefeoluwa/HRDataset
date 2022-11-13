@@ -1,11 +1,11 @@
 # HR Dataset
-In this project I use SQL to carry out Exploratory Data Analysis on this dataset. Having no context on which company this is, what products they offer, or the industry they belong through the EDA I was able to spot some interesting facts about this company that allows me to profie it a little.
+In this project I use SQL to carry out Exploratory Data Analysis(EDA) on this dataset. Having no context on which company this is, what products they offer, or the industry they belongto, through EDA I was able to spot some interesting facts about this company that allows me to profie it a little.
 
 For Example:
 
 -- It's a Female powered company.
 
--- The company hires a lot of Product Techinicians. so might be a technology company.
+-- The company hires a lot of Product Techinicians. So might be a technology company OR FACTORY
 
 -- They have only 2 C-suite level staff. The CEO & The CIO.
 
