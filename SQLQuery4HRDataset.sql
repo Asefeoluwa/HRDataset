@@ -81,7 +81,7 @@ COUNT(*)*100/(SELECT COUNT(*)
 		FROM [SQL Portfolio]..HRDataset) AS RacePercent
 FROM [SQL Portfolio]..HRDataset
 GROUP BY RaceDesc
- White people make up 60% of the company. Followed by 25% back people, 9% Hispanic people,
+-- White people make up 60% of the company. Followed by 25% back people, 9% Hispanic people,
 
 -- Looking at the racial divide of people laid off
 SELECT RaceDesc, COUNT (*) AS RaceCount,
