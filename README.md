@@ -19,7 +19,7 @@ For Example:
 
 ## Understanding the Syntax of this project.
 
-1.) Each query begins with a comment about the purpores of the query. Then ends with a comment about the results of the query.
+1.) Each query begins with a comment about the purpose of the query. Then ends with a comment about the results of the query.
     
     
     --comment
@@ -29,7 +29,7 @@ For Example:
     -- results
     
     
-2.) This project includes commands and functions such as COUNT(), GROUPBY(), aliases, 
+2.) This project includes commands and functions such as COUNT(), GROUPBY(), aliases, subqueries, 
 
 
 
