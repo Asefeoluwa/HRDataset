@@ -1,5 +1,5 @@
 # HR Dataset
-In this project I use SQL to carry out Exploratory Data Analysis(EDA) on this dataset. Having no context on which company this is, what products they offer, or the industry they belongto, through EDA I was able to spot some interesting facts about this company that allows me to profie it a little.
+In this project I use SQL to carry out Exploratory Data Analysis(EDA) on this dataset. Having no context on which company this is, what products they offer, or the industry they belong to. Through analysis I was able to spot some interesting facts about this company allowing to sketch it's profile.
 
 For Example:
 
