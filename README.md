@@ -5,7 +5,7 @@ For Example:
 
 -- It's a Female powered company.
 
--- The company hires a lot of Product Techinicians. So might be a technology company OR Factory.
+-- The company hires a lot of Product Techinicians, so might be a technology company.
 
 -- They have only 2 C-suite level staff. The CEO & The CIO both female
 
